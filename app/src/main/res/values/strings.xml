@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP03ANDROID</string>
+<string-array name="Wilaya">
+    <item>Tizi Ouzou</item>
+    <item>Alger</item>
+    <item>Bejaïa </item>
+    <item>Sétif</item>
+
+</string-array>
+</resources>
